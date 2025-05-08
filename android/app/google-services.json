@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "288251664691",
+    "project_id": "mazad-79c3d",
+    "storage_bucket": "mazad-79c3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288251664691:android:473d0825932d80fae20646",
+        "android_client_info": {
+          "package_name": "com.example.mazad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288251664691-cmf9sqspbue67m3tjl653cav5drokpd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTXQuY5M2_G6sPcuJ7bsuEaqAOvz7KClA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288251664691-cmf9sqspbue67m3tjl653cav5drokpd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
